@@ -1,0 +1,169 @@
+
+
+/*Navbar Section */
+{font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: bold;}
+
+/* body section */
+
+h1{
+  font-family: "Montserrat";
+  color: white;
+  text-align: center;
+  line-height: 1.5;
+}
+
+
+
+}
+ol{
+  color: #fff;
+}
+
+
+}
+
+li{
+  font-family: "Fanwood Text", serif;
+  font-size:;
+
+}
+
+h2{
+  font-family:"Rum Raisin", serif;
+  color: #fff;
+  margin: 2%;
+  padding: 3%;
+}
+
+h3{
+  color: #fff;
+  font-family: "Rum Raisin", sans-serif;
+  margin: 2%;
+  padding-top:2%;}
+
+
+h5{font-family: "Rum Raisin", serif;
+color: #fff;
+  }
+
+body{font-family: "Montserrat";}
+ .img-fluid {max-width:100%;
+}
+
+
+
+p{
+  color: #fff;}
+
+
+
+#title {
+  background-color:#252525;
+  color: #000;
+ }
+
+ /* WHOWEARE Section */
+ #WHOWEARE{
+   background-color:#ED1C24;
+   padding:inherit;
+   margin: inherit;
+
+ }
+
+ #Jumbotron{background-color: #252525;
+   width: 100%;
+   height: auto;
+
+   }
+
+/* Container-Section */
+
+.container-fluid{
+  padding: 3% 10%;}
+
+
+/* OURTEAM Section */
+ #OURTEAM{
+   background-color: #b2e4d5;
+   width:100%;
+   height:100%;
+   margin: 10px 10px 50px;
+   text-align: center;
+   line-height: 1.5;
+   padding-top: 5%;
+}
+
+.hr-radius{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 0.3em 0 9px;
+        border-color:white;
+       width: 100%;
+      }
+
+.carousel-caption{font-family: "Ubuntu";}
+
+ .align-self-start-mr-3{
+  border-radius: 100%;
+  padding-bottom: 3%;
+  padding-right: 2%;
+
+}
+.mt-0{ text-align: center;
+margin: 25%;
+padding-bottom: 5%;
+padding-top: 6%;}
+
+.team{
+  padding: 7%;
+}
+.image-team{
+  margin: 20px 20px 50px;
+}
+
+
+
+/* CONTACT US section */
+#CONTACTUS{
+  width: 100%;
+  height: auto;
+
+}
+.join-heading{
+  font-family:"Montserrat-Black";
+  font-size:3.5rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.join{text-align: center;}
+
+/* footer */
+#footer{
+  padding: 2% 5%;
+
+}
+.container-footer{
+  margin:20px 10px;
+  padding-top: 10px;
+
+}
+
+/* Footer section */
+.social-icon{
+
+  margin: 20px 10px;
+  text-align: justify;
+  text-align: center;
+}
+
+/* Footer section */
+.social{text-align: center;}
+
+
+@@media(max-width:1028px){
+  #OURTEAM{text-align: center;}
+  .VISION{ position: static;
+}
